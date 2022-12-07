@@ -1,0 +1,5 @@
+dist-newstyle
+CHANGELOG.md
+webnote.db
+webnote.db-shm
+webnote.db-wal
